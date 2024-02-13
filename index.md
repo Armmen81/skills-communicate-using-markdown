@@ -1,2 +1,3 @@
 # Cabecera de nivel 1
 ## Cabecera de nivel 2
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
