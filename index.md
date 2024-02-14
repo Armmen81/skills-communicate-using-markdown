@@ -7,9 +7,9 @@
 var myVar = "Hello, world!";
 ```
 
+ 
+\- [] Turn on GitHub Pages
 
-- [] Turn on GitHub Pages
+\- [] Outline my portfolio
 
-- [] Outline my portfolio
-
-- [] Introduce myself to the world
+\- [] Introduce myself to the world
